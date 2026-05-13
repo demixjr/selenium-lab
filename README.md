@@ -10,4 +10,4 @@ python test_tasks.py
 ## Тестові дані
 
 - Логін: `tomsmith`
-- Пароль: `SuperSecretPassword`
+- Пароль: `SuperSecretPassword!`
